@@ -1,0 +1,181 @@
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Curs_BD_v0.1.exe
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Curs_BD_v0.1.deps.json
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Curs_BD_v0.1.runtimeconfig.json
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Curs_BD_v0.1.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Curs_BD_v0.1.pdb
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.csproj.AssemblyReference.cache
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0._1.Form1.resources
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0._1.Form2.resources
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0._1.Form3.resources
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0._1.Properties.Resources.resources
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.csproj.GenerateResource.cache
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.AssemblyInfoInputs.cache
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.AssemblyInfo.cs
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.csproj.CoreCompileInputs.cache
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.csproj.CopyComplete
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\refint\Curs_BD_v0.1.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.pdb
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.genruntimeconfig.cache
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\ref\Curs_BD_v0.1.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Curs_BD_v0.1.exe
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Curs_BD_v0.1.deps.json
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Curs_BD_v0.1.runtimeconfig.json
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Curs_BD_v0.1.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Curs_BD_v0.1.pdb
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.csproj.AssemblyReference.cache
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0._1.Form1.resources
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0._1.Form2.resources
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0._1.Form3.resources
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0._1.Form4.resources
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0._1.Properties.Resources.resources
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.csproj.GenerateResource.cache
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.AssemblyInfoInputs.cache
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.AssemblyInfo.cs
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.csproj.CoreCompileInputs.cache
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.csproj.CopyComplete
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\refint\Curs_BD_v0.1.dll
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.pdb
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.genruntimeconfig.cache
+C:\Users\Дарина\Desktop\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\ref\Curs_BD_v0.1.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0._1.Form4.resources
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\OxyPlot.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Лабы\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Curs_BD_v0.1.exe
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Curs_BD_v0.1.deps.json
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Curs_BD_v0.1.runtimeconfig.json
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Curs_BD_v0.1.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Curs_BD_v0.1.pdb
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\OxyPlot.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.csproj.AssemblyReference.cache
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0._1.Form1.resources
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0._1.Form2.resources
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0._1.Form3.resources
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0._1.Form4.resources
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0._1.Properties.Resources.resources
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.csproj.GenerateResource.cache
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.AssemblyInfoInputs.cache
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.AssemblyInfo.cs
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.csproj.CoreCompileInputs.cache
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.csproj.CopyComplete
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\refint\Curs_BD_v0.1.dll
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.pdb
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\Curs_BD_v0.1.genruntimeconfig.cache
+C:\Users\dengt\Desktop\Учёба\4 семестр\БД\Курсач\Curs_BD_v0.1\Curs_BD_v0.1\obj\Debug\net7.0-windows\ref\Curs_BD_v0.1.dll
